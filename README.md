@@ -34,7 +34,10 @@
 
 ```
     pnpm fresh --seed
-    pnpm clear
+    pnpm run clear
+        OR
+    yarn fresh --seed
+    yarn clear
 ```
 
 ```
