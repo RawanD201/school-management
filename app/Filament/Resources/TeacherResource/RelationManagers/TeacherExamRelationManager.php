@@ -23,7 +23,7 @@ class TeacherExamRelationManager extends RelationManager
             ->schema([
                 Forms\Components\TextInput::make('mark')
                     ->label(__('attr.mark'))
-                    ->numberic()
+                    ->numeric()
                     ->required(),
                 Forms\Components\Select::make('lecture')
                     ->label(__('attr.lecture'))
