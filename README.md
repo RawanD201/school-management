@@ -9,7 +9,7 @@
 </p>
 
 
-## Setup
+## Set-up
 
 
 ```
@@ -25,7 +25,7 @@
 ```
 
 ```
-    yarn install OR pnpm install
+    yarn install || pnpm install
 ```
 
 ```
@@ -35,7 +35,7 @@
 ```
     pnpm fresh --seed
     pnpm run clear
-        OR
+    -------------------
     yarn fresh --seed
     yarn clear
 ```
